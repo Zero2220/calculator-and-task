@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Asus\Desktop\calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Asus\Desktop\calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Asus\Desktop\calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Asus\Desktop\calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
